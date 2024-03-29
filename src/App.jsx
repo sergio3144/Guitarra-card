@@ -18,7 +18,6 @@ function App() {
               <Guitar
                 key={ guitar.id }
                 guitar={ guitar }
-                
               />
             ))
           }
